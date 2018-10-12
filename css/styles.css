@@ -1,0 +1,85 @@
+body {
+  background-color: #dee3e5;
+}
+
+h1 {
+  text-align: center;
+  font-style: oblique;
+  font-stretch: expanded;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+  font-weight: normal;
+}
+
+h3 {
+  color: #214784;
+}
+
+h4 {
+  padding-bottom: 0px;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+}
+
+ul{
+  padding-top: 0px;
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  float: right;
+}
+
+.jumbotron {
+  color: #2a374c;
+  background-color: #bad4e0;
+}
+
+.about-me {
+  margin: 10px;
+  border: 5px solid #214784;
+  padding: 10px;
+  background-color: #dce4e8;
+  float: left;
+}
+
+#about {
+  color: #214072;
+  font-size: 12pt;
+  font-family: serif;
+}
+
+.learn {
+  font-style: italic;
+  font-family: sans-serif;
+  text-decoration: underline;
+}
+
+.well {
+  background-color: #bad4e0;
+}
+
+.sidebar {
+  margin: 10px;
+  border: 2px #dee3e5;
+  padding: 10px;
+  float: right;
+}
+
+.education {
+  text-align: center;
+  margin: 10px;
+  border: 5px solid #214784;
+  padding: 10px;
+  background-color: #dce4e8;
+}
+
+.panel-title {
+  font-size: 15px;
+  text-align: center;
+}
