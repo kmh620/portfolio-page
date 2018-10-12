@@ -10,7 +10,7 @@ Portfolio webpage to practice use of HTML tags, CSS, and Bootstrap.
 
 ## Setup/Installation
 
-* Go to [Portfolio gh-pages link](kmh620.github.io/)
+* Go to [Portfolio gh-pages link](kmh620.github.io/portfolio-page)
 
 
 
